@@ -1,0 +1,12 @@
+{
+  "name": "IncogniStructura",
+  "version": "1.0.0",
+  "description": "Ein app wenn Incogni ist nicht da. Dies ist ein 24/7 app woher du können sprechen mit ein ¨Incogni¨.A app if Incogni is not there. This is a 24/7 app where you can speak with a ¨Incogni¨. Use $i in order to speak with it.",
+  "main": "main.js",
+  "author": "IncogniStructura",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs/node.git"
+  }
+}
